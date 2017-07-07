@@ -6,8 +6,8 @@ Respositório de arquivos relacionados ao Vagrant para ambiente de desenvolvimen
 
 * O arquivo de configuração do Vagrant (Vagrantfile)
 * Os scripts de provisionamento do ambiente, que foram escritos em shell.
-* Esses arquivos deverão ser copiados para a raiz do projeto [espresso-rails](https://bitbucket.org/guilhermecostantin/espresso-rails).
-* **ATENÇÂO** não adicione esses arquivos no projeto **espresso-rails**, apenas os mantenha em sua pasta de trabalho local.
+* Esses arquivos deverão ser copiados para a raiz do projeto.
+* **ATENÇÂO** não adicione esses arquivos no projeto, apenas os mantenha em sua pasta de trabalho local.
 
 ### Como usar? ###
 
@@ -29,4 +29,3 @@ bundle exec rails s -b 0.0.0.0
 ### Sinta-se à vontade para contribuir ###
 
 * Peça um code review de algum contribuidor.
-* Gere tag para versão estável.
